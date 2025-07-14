@@ -1,6 +1,6 @@
 # Ray-Tracing
 
-A Cornell Box with 
+A simple Cornell Box with 
 
 one primitive object,  
 one polygonal shape,  
