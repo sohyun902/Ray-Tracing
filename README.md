@@ -13,4 +13,4 @@ All three ray tracing features (Shadows, Reflection, and Refraction) were implem
 The result is as below:  
 
 
-![poster](./result.jpg)
+ <img src="./result.jpg" width="256">
