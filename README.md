@@ -8,4 +8,4 @@ and a complex surface mesh
 
 was rendered.
 
-All three ray tracing featrues (Shadows, Reflection, and Refraction) were implemented.
+All three ray tracing features (Shadows, Reflection, and Refraction) were implemented.
