@@ -10,5 +10,7 @@ was rendered.
 
 All three ray tracing features (Shadows, Reflection, and Refraction) were implemented.
 
-The result is as below:
+The result is as below:  
+
+
 ![poster](./result.jpg)
